@@ -1,3 +1,6 @@
+# IMPORTANTE
+Progetto realizzato in PHP e PostgreSQL. Leggere "Relazione.pdf" nella directory "Relazione" per comprendere meglio il progetto.
+
 # ATTENZIONE
 
 Importando il file **DATABASE.sql** nel database eseguirà numerose volte le istruzioni
